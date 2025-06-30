@@ -2,3 +2,4 @@ The current project requests that we build a basic recipe website. On the websit
 
 Sources:
 <p>Miso Salmon by Jessica Gavin</p>
+<p>Chickpea Salad by Spend with Pennies</p>
