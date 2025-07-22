@@ -1,0 +1,29 @@
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+body { 
+    font-family: Arial, "Times New Roman", sans-serif;
+    background-color: #dbcab4;
+}
+
+h1 {
+    text-align: center;
+    margin-top: 50px;
+    color: #36302a;
+    font-size: 50px;
+    border: 5px solid #36302a;
+    padding: 3px;
+    width: 380px;
+    margin-left: 510px;
+}
+
+.link-color {
+    color: #3d280f; 
+    font-weight: bold;
+}
+
+.center {
+    text-align: center;
+}
