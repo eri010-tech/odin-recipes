@@ -2,15 +2,23 @@
     padding: 0;
     margin: 0;
     box-sizing: border-box;
+    outline: 1px dotted red;
 }
+/* remove the "outline" feature once done with project */
 body { 
     font-family: Arial, "Times New Roman", sans-serif;
     background-color: #dbcab4;
     text-align: center;
 }
 
+
+ul {
+    list-style: none;
+}
+
 h1 {
     text-align: center;
+    text-transform: uppercase;
     margin-top: 100px;
     color: #36302a;
     font-size: 50px;
@@ -37,6 +45,10 @@ h1 {
     font-size: 30px;
 }
 
+a {
+    text-decoration: none;
+}
+
 a:hover {
     color: #5e514b;
     background-color: #e3dfda;
@@ -45,4 +57,3 @@ a:hover {
 .space {
     margin: 25px; 
 }
-/* figure out what to do with bullet points */
