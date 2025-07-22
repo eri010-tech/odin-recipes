@@ -26,4 +26,23 @@ h1 {
 
 .center {
     text-align: center;
+    font-size: 25px;
 }
+
+.small-text {
+    font-size: 15px;
+    color: #614a28;
+    font-weight: 50px;
+}
+
+.meal-name {
+    color: #614a28;
+    font-size: 30px;
+}
+
+a:hover {
+    color: #5e514b;
+    background-color: #e3dfda;
+}
+
+/* work on margin in between each line */
