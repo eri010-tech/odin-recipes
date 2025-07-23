@@ -64,8 +64,6 @@ a:hover {
     width: 700px; 
     margin: auto;
     margin-top: 50px; 
+    border-radius: 15px; 
 }
 
-.background {
-    background-color: salmon; 
-}
