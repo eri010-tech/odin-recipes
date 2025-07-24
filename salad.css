@@ -39,7 +39,7 @@ a:hover {
 }
 
 img {
-  border: 2px solid #294724;  
+  border: 2px solid #294724;   
 }
 
 .first-border, img {
@@ -47,5 +47,54 @@ img {
   border-radius: 4px; 
 }
 
-/* work on creating <div> for each section and classes to go
-with each. Play around with different colors. */ 
+.appetizer {
+  border: 3px dotted #000000;
+  margin-top: 20px; 
+  padding-top: 3px;   
+  padding-bottom: 3px;
+  width: 850px; 
+  margin-left: 300px;  
+  margin-bottom: 20px; 
+}
+
+.appetizer-color {
+  /* this is for changing the heading color */ 
+}
+
+.ingredients-and-dressing-border {
+  border: 2px double #000000; 
+  margin-left: 500px;
+  margin-right: 500px; 
+  padding-top: 5px;
+  padding-bottom: 5px;    
+}
+
+ul {
+  list-style-type: none; 
+}
+
+.ingredients-color {
+  /* this is for changing the heading color */
+}
+
+.dressing-color {
+  /* this is for changing the heading color */
+}
+
+.instructions {
+  border: 2px dashed #000000;
+  margin-left: 50px;
+  margin-right: 50px;
+  padding-top: 5px;
+  padding-bottom: 5px;
+  margin-bottom: 20px; 
+  margin-top: 20px;   
+}
+ol {
+  list-style-type: none; 
+}
+
+.instructions-color {
+  /* this is for changing the heading color */ 
+}
+
