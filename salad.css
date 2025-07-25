@@ -48,7 +48,7 @@ img {
 }
 
 .appetizer {
-  border: 3px dotted #000000;
+  border: 5px dotted #523a21;
   margin-top: 20px; 
   padding-top: 3px;   
   padding-bottom: 3px;
@@ -58,15 +58,16 @@ img {
 }
 
 .appetizer-color {
-  /* this is for changing the heading color */ 
+  color: #2c4a28; 
 }
 
 .ingredients-and-dressing-border {
-  border: 2px double #000000; 
+  border: 8px double #523a21; 
   margin-left: 500px;
   margin-right: 500px; 
   padding-top: 5px;
-  padding-bottom: 5px;    
+  padding-bottom: 5px;
+  border-radius: 2px;     
 }
 
 ul {
@@ -74,27 +75,30 @@ ul {
 }
 
 .ingredients-color {
-  /* this is for changing the heading color */
+  color: #ad2121;
+  font-size: 20px;   
 }
 
 .dressing-color {
-  /* this is for changing the heading color */
+  color: #602580;
+  font-size: 20px;  
 }
 
 .instructions {
-  border: 2px dashed #000000;
+  border: 5px dashed #523a21;
   margin-left: 50px;
   margin-right: 50px;
   padding-top: 5px;
   padding-bottom: 5px;
   margin-bottom: 20px; 
-  margin-top: 20px;   
+  margin-top: 20px; 
+  border-radius: 2px;  
 }
 ol {
   list-style-type: none; 
 }
 
 .instructions-color {
-  /* this is for changing the heading color */ 
+  color: #b38c0e;
+  font-size: 25px;   
 }
-
