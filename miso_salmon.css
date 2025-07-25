@@ -19,3 +19,39 @@ a:hover {
     color: #5e514b;
     background-color: #ffffff;
 }
+
+.miso-salmon-title {
+  font-size: 35px; 
+  color: #523a21;
+  padding-top: 5px;  
+}
+
+.miso-salmon-and-image-border {
+  border: 8px dotted #783b20; 
+  margin-top: 20px; 
+  margin-bottom: 20px;
+  padding-bottom: 5px;
+  margin-left: 500px;
+  margin-right: 500px;   
+}
+
+.large-border {
+  border: 15px double #570a0c;
+  margin-top: 5px;
+  margin-left: 20px; 
+  margin-right: 20px; 
+  margin-bottom: 20px; 
+  padding: 5px; 
+  border-radius: 15px;   
+}
+
+ul, ol {
+  list-style-type: none; 
+}
+
+.header {
+  color: #1e660c; 
+  font-size: 25px; 
+  text-decoration: underline;
+  padding: 2px;  
+}
